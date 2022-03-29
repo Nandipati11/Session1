@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class email {
 	public static void main(String[] args) {
+		
 		ArrayList<String> emailID = new ArrayList<String>();
 
 		emailID.add("sunitha@gmail.com");

@@ -6,6 +6,7 @@ public class ArithmeticCalculator {
 
 	public static void main(String[] args) {
 		char operator;
+		
 		int num1, num2, result;
 
 		Scanner input = new Scanner(System.in);
